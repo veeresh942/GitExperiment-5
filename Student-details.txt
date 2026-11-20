@@ -1,0 +1,4 @@
+NAME:BHARATH 
+USN: 12345
+YEAR:2nd year
+SECTION: A sec
